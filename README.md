@@ -5,3 +5,6 @@ It performs simple mathematical operations.
 # Main Task
 These codes were to calculate the mortgage after inputting the principal, the time, and the rate.
 
+#Display
+I learned how to also artistically present the output of my codes.
+
