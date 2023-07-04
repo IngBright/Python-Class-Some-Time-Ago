@@ -8,3 +8,6 @@ These codes were to calculate the mortgage after inputting the principal, the ti
 # Display
 I learned how to also artistically present the output of my codes.
 
+# Author
+Bright Xorla Sefogah
+
